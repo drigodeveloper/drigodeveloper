@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, i'm Rodrigo 👋
 
-<!--
-**drigodeveloper/drigodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 
+I'm a student of web development and excited to learn about the latest technologies. I'm always looking for new challenges to improve my programming skills.
 
-Here are some ideas to get you started:
+#### Technologies
+- 🔥 Main language: `JavaScript` 
+- 👨‍💻 FrontEnd: `HTML`, `CSS3`, `JavaScript`, `ReactJS` 
+- 📡 BackEnd: `NodeJS` 
+- 📝 Versioning control: `Git & GitHub` 
+- 🔨 Tools: `vsCode` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Linkedin: https://www.linkedin.com/in/rodrigocamposm/
+- Email: drigodeveloper@gmail.com 
